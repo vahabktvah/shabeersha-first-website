@@ -385,7 +385,7 @@ h6 {
   color: #ffb727;
 }
 
-@media (min-width: 1024px) {
+@media (max-width: 2000px) {
   #hero {
     background-attachment: fixed;
   }
